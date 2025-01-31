@@ -1,4 +1,4 @@
-# DNS over CoAP (DoC)
+ # DNS over CoAP (DoC)
 
 This is the working area for the individual Internet-Draft, "DNS over CoAP (DoC)".
 
